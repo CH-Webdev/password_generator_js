@@ -1,0 +1,16 @@
+{
+  "name": "random_password_generator_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://CH-Webdev.github.io/password_generator_js",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
